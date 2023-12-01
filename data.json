@@ -2,19 +2,16 @@
     {
         "name": "App 1",
         "description": "Описание приложения 1",
-        "imageName": "app1",
         "appStoreURL": "https://www.apple.com/app1"
     },
     {
         "name": "App 2",
         "description": "Описание приложения 2",
-        "imageName": "app2",
         "appStoreURL": "https://www.apple.com/app2"
     },
     {
         "name": "App 3",
         "description": "Описание приложения 3",
-        "imageName": "app3",
         "appStoreURL": "https://www.apple.com/app3"
     }
 ]
